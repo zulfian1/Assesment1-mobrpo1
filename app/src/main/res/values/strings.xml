@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pengeluaran</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="pengeluaran_terbaru">Pengeluaran Terbaru</string>
+    <string name="biaya">Biaya</string>
+    <string name="pengeluaranku">PengeluaranKu</string>
+</resources>

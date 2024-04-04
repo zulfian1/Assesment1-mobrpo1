@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyExpense</string>
+    <string name="lihat_data">History</string>
+    <string name="pengeluaran_terbaru">Newest Expense</string>
+    <string name="biaya">Expense</string>
+    <string name="pengeluaranku">MyExpense</string>
+</resources>
